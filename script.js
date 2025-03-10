@@ -115,7 +115,7 @@ result += product.innerHTML = `    <div class="product">
 Add to cart
       </button>
       <h3 class="category">${category}</h3>
-      <h2 class="product-name">${category}</h2>
+      <h2 class="product-name">${name}</h2>
       <h3 class="price">$${price}</h3>
     </div>`
 })
